@@ -1,0 +1,13 @@
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\bin\Debug\Space invaders project.exe.config
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\bin\Debug\Space invaders project.exe
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\bin\Debug\Space invaders project.pdb
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space invaders project.csprojAssemblyReference.cache
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space_invaders_project.Properties.Resources.resources
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space invaders project.csproj.GenerateResource.cache
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space invaders project.csproj.CoreCompileInputs.cache
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space invaders project.exe
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space invaders project.pdb
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space_invaders_project.StartMenu.resources
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space_invaders_project.GameMenu.resources
+C:\Users\Hp\source\repos\Space invaders project\Space invaders project\obj\Debug\Space_invaders_project.HardLevel.resources
+C:\Users\Hp\source\repos\Space Invaders Project\Space invaders project\obj\Debug\Space_invaders_project.Story.resources
