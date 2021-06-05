@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Compile Update="FivethRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="LoseWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ThirdRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="FourthRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="SecondRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StartRoom.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="WinWin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
