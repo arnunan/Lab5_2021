@@ -1,0 +1,8 @@
+<welcome>Кто-нибудь слышит? На корабле есть кто? Я отправляю своё предложение! И вообще я очень интеерсный персонаж.<welcome>
+<ans;name="К-1";reaction="{metal}+20{food}-20">К-1) Купить 20 х Металл за 20 х Еда<ans>
+<ans;name="К-2";reaction="{food}+10{electronics}-20">К-2) Купить 10 х Еда за 20 х Электроника<ans>
+<ans;name="П-1";reaction="{metal}-30{food}+20">П-1) Продать 20 х Металл за 20 х Еда<ans>
+<ans;name="П-2";reaction="{metal}-20{electronics}+40">П-2) Продать 20 х Металл за 40 х Электроника<ans>
+<ans;name="1";reaction="call:goodbye">1) Отключиться.<ans>
+<goodbye>Всего доброго.<goodbye>
+<unknown>Чего?<unknown>

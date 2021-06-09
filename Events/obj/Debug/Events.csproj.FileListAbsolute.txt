@@ -1,0 +1,12 @@
+W:\Urfu_Programming_Project\Null-Sector\Events\bin\Debug\Events.dll
+W:\Urfu_Programming_Project\Null-Sector\Events\bin\Debug\Events.pdb
+W:\Urfu_Programming_Project\Null-Sector\Events\obj\Debug\Events.csprojAssemblyReference.cache
+W:\Urfu_Programming_Project\Null-Sector\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+W:\Urfu_Programming_Project\Null-Sector\Events\obj\Debug\Events.dll
+W:\Urfu_Programming_Project\Null-Sector\Events\obj\Debug\Events.pdb
+C:\Users\PC-1\Desktop\Null-Sector\Events\bin\Debug\Events.dll
+C:\Users\PC-1\Desktop\Null-Sector\Events\bin\Debug\Events.pdb
+C:\Users\PC-1\Desktop\Null-Sector\Events\obj\Debug\Events.csprojAssemblyReference.cache
+C:\Users\PC-1\Desktop\Null-Sector\Events\obj\Debug\Events.csproj.CoreCompileInputs.cache
+C:\Users\PC-1\Desktop\Null-Sector\Events\obj\Debug\Events.dll
+C:\Users\PC-1\Desktop\Null-Sector\Events\obj\Debug\Events.pdb
